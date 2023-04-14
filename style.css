@@ -221,5 +221,9 @@ gap: 20px;
     footer .button:hover{
         background: #07ac51;
     }
+    input:invalid{
+        border: 1px solid #ff1010;
+    }
+
 
 
